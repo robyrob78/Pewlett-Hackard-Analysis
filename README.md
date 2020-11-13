@@ -10,12 +10,12 @@ The purpose of this analysis was to help Pewlett-Hackard determine how many of t
   * Employees who were eligible for the mentorship program
 
 * We were able to determine the number of employees that were eligible for retirement by their title
- * Senior Engineers: 29,414
- * Senior Staff: 28,254
- * Engineers: 14,222
- * Staff: 12,243
- * Technique Leaders: 4,502
- * Assistant Engineers: 1,761
- * Managers: 2
+  * Senior Engineers: 29,414
+  * Senior Staff: 28,254
+  * Engineers: 14,222
+  * Staff: 12,243
+  * Technique Leaders: 4,502
+  * Assistant Engineers: 1,761
+  * Managers: 2
  
 *
