@@ -23,3 +23,4 @@ The purpose of this analysis was to help Pewlett-Hackard determine how many of t
 * We provided Pewlett-Hackard with the information they needed to make hiring decisions in order to replace the retirees they will be losing
 
 ## Summary
+The number of employees that are eligible for retirement is 33,119. The number of employees eligible for the mentorship program is 1,549. Another table that might help Pewlett-Hackard make hiring decisions would be to group current employees not elegible for retirement by their department, and sort them based on how long they've been with the company. This would give Pewlett-Hackard a good place to start when it comes to choosing replacements. One querie that might be helpful would be to look at how many people are in each department at each position. This might show that certain areas may need more managers or may need more or less entry level positions. 
